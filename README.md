@@ -32,7 +32,7 @@ The project is organized into the following directories:
 
 
 
-1. `Processed Data/`: Stores processed and output data (Access cxan be requested [here](https://www.dropbox.com/scl/fo/xpm82btzeucyvpzp0wnza/AOGuFzMf401Nbkgv2kWHiEo?rlkey=7dotyoromnf706lmw393xpmfq&st=3uh65oud&dl=0]) )
+1. `Processed Data/`: Stores processed and output data (Access can be requested [here](https://www.dropbox.com/scl/fo/xpm82btzeucyvpzp0wnza/AOGuFzMf401Nbkgv2kWHiEo?rlkey=7dotyoromnf706lmw393xpmfq&st=3uh65oud&dl=0]) )
    - Aggregate data ('state_week/modeling_data/')
    - Preprocessed data for synthetic control modeling ('synth_data/ivermectin/')
    - Outputs of modeling: graphs and results ('synth_data/ivermectin/Graphs' and 'synth_data/ivermectin/Results', respectively)
