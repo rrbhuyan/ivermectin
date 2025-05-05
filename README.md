@@ -100,21 +100,21 @@ R libraries:
 2. Model-Based Graphs:
 
 - To replicate Figure 5, use notebook 'IVM Map Graphs.ipynb' located at 'Code Model Based Ivm/'
-- To replicate Figure 6 and Figure 10, use notebook 'IVM Indexed National.ipynb' located at 'Code Model Based Ivm/'
-- To replicate Figure 7 and Figure 11, use notebook 'IVM Indexed Trump.ipynb' located at 'Code Model Based Ivm/'
+- To replicate Figure 6, use notebook 'IVM Indexed National.ipynb' located at 'Code Model Based Ivm/'
+- To replicate Figure 7, use notebook 'IVM Indexed Trump.ipynb' located at 'Code Model Based Ivm/'
 - To replicate Figure 8, use notebook 'IVM Indexed Texas California.ipynb' located at 'Code Model Based Ivm/'
 
 3. Placebo Graph:
 
-- To replicate Figure 9, use notebook 'IVM Synthetic Controls Indexed National Placebo.ipynb' located at 'Code Synth Modeling/'
+- To replicate Figure A2, use notebook 'IVM Synthetic Controls Indexed National Placebo.ipynb' located at 'Code Synth Modeling/'
 
 4. Regression Tables:
 
-- To replicate Table 3 and Table 4, use notebook 'IVM Regression Tables.ipynb' located at 'Code Regression/'
+- To replicate Table 3 and Table A1, use notebook 'IVM Regression Tables.ipynb' located at 'Code Regression/'
 
 
 ## Contributors
-- Dinesh Puranam, Ivan Belov, Rashmi Ranjan Bhuyan, Shantanu Dutta, Jeroen van Meijgaard, Reetabrata Mookherjee, and Gourab Mukherjee
+- Dinesh Puranam, Rashmi Ranjan Bhuyan, Ivan Belov, Shantanu Dutta, Jeroen van Meijgaard, Reetabrata Mookherjee, and Gourab Mukherjee
 
 ## Contact
 Dinesh Puranam, puranam@marshall.usc.edu
